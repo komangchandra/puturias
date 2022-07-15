@@ -1,0 +1,26 @@
+body {
+  background: url(/img/bg.jpg) no-repeat;
+  background-size: cover;
+}
+
+.f-s {
+  font-family: "Splash", cursive;
+}
+
+.inter {
+  font-family: "Inter", sans-serif;
+}
+
+.my-bg {
+  background: rgba(0, 0, 0, 0.4);
+}
+
+.img-profil {
+  max-width: 100%;
+  height: auto;
+  transition: 0.4s;
+}
+
+.img-profil:hover {
+  transform: scale(1.02);
+}

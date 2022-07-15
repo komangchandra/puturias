@@ -1,12 +1,7 @@
 /* body {
-  background: url(/img/bg.jpg) no-repeat;
+  background: url(/img/my-bg.jpg) no-repeat;
   background-size: cover;
 } */
-
-.bg-img {
-  background: url(/img/bg.jpg) no-repeat;
-  background-size: cover;
-}
 
 .f-s {
   font-family: "Splash", cursive;
